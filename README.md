@@ -1,2 +1,2 @@
 # kridah-coming-soon
-coing soon page set on route.
+coming soon page set on route.
